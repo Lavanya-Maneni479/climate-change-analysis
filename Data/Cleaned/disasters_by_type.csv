@@ -1,0 +1,16 @@
+Disaster Type,Total_Events,Total_Deaths,Avg_Deaths
+Flood,5551,6993561,1735
+Storm,4496,1401367,423
+Earthquake,1544,2342188,2014
+Epidemic,1501,9616245,7596
+Landslide,776,67112,91
+Drought,770,11731424,170021
+Extreme temperature ,603,193417,395
+Wildfire,471,4570,23
+Volcanic activity,265,86834,954
+Insect infestation,96,0,0
+Mass movement (dry),48,4644,101
+Glacial lake outburst,2,250,125
+Fog,1,4000,4000
+Impact,1,0,0
+Animal accident,1,12,12
